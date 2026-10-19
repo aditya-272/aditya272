@@ -26,7 +26,7 @@ const SITE_CONFIG = {
     
     // Configuration audio
     audio: {
-        volume: 0.15,            // Volume par défaut (0.0 à 1.0)
+        volume: 0.5,            // Volume par défaut (0.0 à 1.0)
         autoplay: true,          // Lecture automatique
         loop: true               // Lecture en boucle
     },
